@@ -12,7 +12,6 @@ Beyond that I am an avid learner and team player. I enjoy staying up-to-date wit
 <br>
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jamesmilord&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&prs_merged_percentage=true&custom_title=Github%20Stats&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamesmilord&theme=dark)](https://git.io/streak-stats)  
 </div>
 <br>
